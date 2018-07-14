@@ -29,3 +29,11 @@
 p:last-child {
   margin-bottom: 0px;
 }
+
+.slides h2{
+  color:violet;
+}
+
+footer h2{
+  color:darkgray;
+}
